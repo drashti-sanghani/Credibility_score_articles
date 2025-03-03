@@ -1,0 +1,8 @@
+pandas
+requests
+tensorflow
+numpy
+matplotlib
+scikit-learn
+huggingface_hub
+pickle5
